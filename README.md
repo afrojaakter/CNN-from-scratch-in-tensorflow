@@ -1,4 +1,4 @@
-# References:
+# Reference:
 1. https://cs231n.github.io/neural-networks-3/#sgd
 2. https://course17.fast.ai/lessons/lesson2.html
 3. https://course17.fast.ai/lessons/lesson4.html
